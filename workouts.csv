@@ -1,0 +1,5 @@
+workout_id,user_id,date,exercise,duration_min,calories_burned
+101,1,2025-01-10,Running,30,300
+102,1,2025-01-11,Weight Lifting,45,450
+103,2,2025-01-10,Cycling,60,600
+104,3,2025-01-12,Yoga,40,200
